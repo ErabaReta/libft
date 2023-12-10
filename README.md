@@ -14,12 +14,12 @@ or you can use:
 > make all
 
 for the bonus part use:
-< make bonus >
+> make bonus
 
 to delete the object files you can use:
-< make clean >
+>make clean
 and to the delete the object files and the library you can use:
-< make fclean >
+> make fclean 
 
 rebuilding the library will be done if you use:
-< make re >
+> make re
