@@ -5,3 +5,5 @@ with the way they are defined in their man. The only difference will be their na
 will begin with the ’ft_’ prefix. For instance, strlen becomes ft_strlen...
 and also trying to develop set of functions that are either not in the libc,
 or that are part of it but in a different form.
+
+## using makefile:
