@@ -1,4 +1,4 @@
-#Libft
+# Libft
 in this project I m trying to redo a set of functions from the libc. these function have the
 same prototypes and implement the same behaviors as the originals. They comply
 with the way they are defined in their man. The only difference will be their names. They
