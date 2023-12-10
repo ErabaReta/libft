@@ -11,7 +11,7 @@ and in the bonus part.
 to compile all the medatory functions into object files then archive them to a libft.a static library use the command:
 < make >
 or you can use:
-< make all >
+> make all
 
 for the bonus part use:
 < make bonus >
