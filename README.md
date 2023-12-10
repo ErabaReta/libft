@@ -19,6 +19,7 @@ for the bonus part use:
 
 to delete the object files you can use:
 >make clean
+
 and to the delete the object files and the library you can use:
 > make fclean 
 
