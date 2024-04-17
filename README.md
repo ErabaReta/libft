@@ -1,11 +1,16 @@
 # Libft
-in this project I m trying to redo a set of functions from the libc. these function have the
-same prototypes and implement the same behaviors as the originals. They comply
-with the way they are defined in their man. The only difference will be their names. They
-will begin with the ’ft_’ prefix. For instance, strlen becomes ft_strlen...
+in this project I m trying to redo a set of functions from the libc.
+
+these function have the same prototypes and implement the same behaviors as the originals.
+
+They comply with the way they are defined in their man. The only difference will be their names.
+
+They will begin with the ’ft_’ prefix. For instance, strlen becomes ft_strlen...
+
 In part II I m also trying to develop set of functions that are either not in the libc,
 or that are part of it but in a different form.
-and in the bonus part.
+
+and in the bonus part is set of basic function that come handy to create and manipulate linked lists.
 
 ## using makefile:
 to compile all the medatory functions into object files then archive them to a libft.a static library use the command:
